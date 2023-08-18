@@ -75,6 +75,8 @@ const SolarEmploymentChart = () => {
         }
     };
 
+    
+
     return (
         <div>
             <HighchartsReact highcharts={Highcharts} options={options} />
