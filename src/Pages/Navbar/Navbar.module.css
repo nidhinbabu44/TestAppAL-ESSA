@@ -1,0 +1,18 @@
+.homeContainer
+{
+    display: flex;
+    justify-content: space-around;
+    
+    padding: 5px;
+}
+.userIcon
+{
+    width: 35px;
+}
+
+.administratorSet
+{
+    display: flex;
+   
+    align-items: center;
+}
