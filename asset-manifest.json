@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TestAppAL-ESSA/static/css/main.b02c38f7.css",
+    "main.js": "/TestAppAL-ESSA/static/js/main.dba71771.js",
+    "static/js/787.39dc7df0.chunk.js": "/TestAppAL-ESSA/static/js/787.39dc7df0.chunk.js",
+    "static/media/user_icon.png": "/TestAppAL-ESSA/static/media/user_icon.89b7b4c732932e09ae8c.png",
+    "static/media/logo.svg": "/TestAppAL-ESSA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TestAppAL-ESSA/index.html",
+    "main.b02c38f7.css.map": "/TestAppAL-ESSA/static/css/main.b02c38f7.css.map",
+    "main.dba71771.js.map": "/TestAppAL-ESSA/static/js/main.dba71771.js.map",
+    "787.39dc7df0.chunk.js.map": "/TestAppAL-ESSA/static/js/787.39dc7df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02c38f7.css",
+    "static/js/main.dba71771.js"
+  ]
+}
